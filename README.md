@@ -1,2 +1,2 @@
 # Discord-Account-Creator
-discord.com için Selenium modülünde Python dili ile kodlanmış Proxy ile çalışan hesap oluşturucu. "I'm not a robot" captchası "2captcha.com" üzerinden $0.50'a çözdürüldü.
+Developed with Python programming language and Selenium library, It creates some Discord account for you effortless. "I'm not a robot" captcha solved by "2captcha.com" for $0.50. You need a key from there.
